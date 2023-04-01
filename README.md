@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Firestone82
 - 👀 I’m interested in Programming, Java
-- 🌱 I’m currently learning at VŠB - Technical University of Ostrava degree in IT
-- 📫 How to reach me Firestone82#6666 (Discord)
+- 🌱 I’m currently studying at VŠB - Technical University of Ostrava degree in IT
+- 📫 How to reach me Firestone82#3634 (Discord)
