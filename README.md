@@ -1,6 +1,4 @@
-### Glad to see you here!
-
-## About me
+### About me
 - 👋 Hi, I’m @Firestone82
 - 👀 I’m interested in Programming especially in Java
 - 🌱 I’m currently studying at VŠB - Technical University of Ostrava degree in IT
