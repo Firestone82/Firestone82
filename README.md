@@ -10,10 +10,5 @@
 </code>
 
 ### ⚡ Github Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Firestone82&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firestone82&show_icons=true&hide_border=true&layout=compact&langs_count=8&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-</p>
+<img align="" width="57.5%" src="https://github-readme-stats-fork-alpha.vercel.app/api?username=Firestone82&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
+<img align="" width="42.4%" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=Firestone82&hide_title=true&hide_border=true&layout=compact&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
