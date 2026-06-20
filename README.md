@@ -3,8 +3,8 @@
 - 👀 I’m interested in Programming, especially in Java
 - 🌱 I’m currently studying a degree in IT at VŠB - Technical University of Ostrava
   - ✌️ Successfully finished Bachelor degree [link](https://github.com/Trails-Through-Shadows/TTS-Thesis?tab=readme-ov-file#tvorba-administrativn%C3%ADho-rozhran%C3%AD-v%C3%BDpravn%C3%A9-evolu%C4%8Dn%C3%AD-hry--creation-of-the-administrative-interface-for-the-narrative-evolution-game)
-  - 🧑‍🎓 Currently pursuing Magister degree
-- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Firestone82).
+  - 🧑‍🎓 Successfully finished Master degree [link](https://github.com/Firestone82/Master-Thesis)
+- 👨🏻‍💻 Most of my projects are available here on [Github](https://github.com/Firestone82).
 
 ### 📨 Contacts:
 <table>
